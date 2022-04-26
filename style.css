@@ -1,1 +1,10 @@
+header {
+    height: 15px;
+    background-color: cadetblue;
+    /* display: flex; */
+ align-items: baseline;
+}
 
+head {
+    font-size: medium;
+}
